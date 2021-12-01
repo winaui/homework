@@ -1,0 +1,17 @@
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.exe
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.deps.json
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.runtimeconfig.json
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.runtimeconfig.dev.json
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.dll
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.pdb
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.csproj.AssemblyReference.cache
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.AssemblyInfoInputs.cache
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.AssemblyInfo.cs
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.csproj.CopyComplete
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.dll
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.pdb
+C:\Users\Washington\Documents\objektno C#\homework\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.genruntimeconfig.cache
